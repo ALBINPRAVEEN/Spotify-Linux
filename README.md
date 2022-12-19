@@ -1,15 +1,10 @@
-  <p align="center">
-  <a href="https://github.com/ALBINPRAVEEN/Spotify-Linux">
-</p>
-
-
 ***
 
 <center>
     <h4 align="center">A multi-featured adblocker for the Spotify Linux application.</h4>
 
-        <strong>Last tested version:</strong> 1.1.99.878
-    </p> 
+      Last tested version: 1.1.99.878
+
 </center>
 
 ### Features:
